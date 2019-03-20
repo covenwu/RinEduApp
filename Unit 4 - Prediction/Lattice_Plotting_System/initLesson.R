@@ -10,14 +10,14 @@ library(datasets)
 
 # Put initialization code in this file.
 path_to_course <- file.path(.get_course_path(),
-	"Exploratory_Data_Analysis","Lattice_Plotting_System")
+	"Unit 4 - Prediction","Lattice_Plotting_System")
 try(dev.off(),silent=TRUE)
 dev.set(2)
 plot.new()
 
 pathtofile <- function(fileName){
   mypath <- file.path(.get_course_path(),
-  	"Exploratory_Data_Analysis","Lattice_Plotting_System",
+  	"Unit 4 - Prediction","Lattice_Plotting_System",
                       fileName)
 }
 fxfer <- function(fileName){
