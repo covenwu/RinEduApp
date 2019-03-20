@@ -28,7 +28,8 @@ getLog <- function(){
 submit_log <- function(){
   
   # Please edit the link below
-  pre_fill_link <- "https://docs.google.com/forms/d/e/1FAIpQLSdhjDPCpFasFN6YLBqUi5ekmK_2t2eqXTUL8xnNoWDgdI6c-w/viewform?usp=pp_url&entry.822553640"
+  pre_fill_link <- "https://docs.google.com/a/tc.columbia.edu/forms/d/e/1FAIpQLSfR4aGTj0DIteq4RpDJiyIvfP7uXDEwTUvbOQ9StjeqXINV8g/viewform?entry.1495534771"
+    #"https://docs.google.com/forms/d/e/1FAIpQLSdhjDPCpFasFN6YLBqUi5ekmK_2t2eqXTUL8xnNoWDgdI6c-w/viewform?usp=pp_url&entry.822553640"
 
   
   # Do not edit the code below
